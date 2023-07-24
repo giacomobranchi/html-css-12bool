@@ -3,3 +3,7 @@
 .col-6 .col-6 {
     background-color: aqua;
 }
+
+.row {
+    margin-top: 1rem;
+}
